@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola a todos! 👋🏻
 
-<!--
-**juanpoch/juanpoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Juan Manuel Poch, un Analista de Seguridad orientado al **Red Team** con pasión por los **CTF** y el desarrollo en **Python**. Siempre estoy aprendiendo y buscando nuevos desafíos 🚀.
 
-Here are some ideas to get you started:
+## Sobre mí 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class AboutMe:
+    def __init__(self):
+        self.nombre = "Juan Manuel Poch 🙋‍♂️"
+        self.lenguajes = ["Python", "Bash", "Javascript", "SQL", "HTML", "CSS"]
+        self.herramientas = ["Burp Suite", "OWASP Zap", "Wireshark", "Nmap", "Metasploit"]
+        self.intereses = ["Ciberseguridad 🔐", "CTF 🕵️", "Programación 💻", "Automatización con Python ⚙️"]
+        self.contacto = "https://www.linkedin.com/in/juanpoch/"
+
+    def presentacion(self):
+        return f"Hola, soy {self.nombre}. Puedes contactarme en {self.contacto}."
