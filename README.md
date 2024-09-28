@@ -9,7 +9,7 @@ class AboutMe:
     def __init__(self):
         self.nombre = "Juan Manuel Poch 🙋‍♂️"
         self.lenguajes = ["Python", "Bash", "Javascript", "SQL", "HTML", "CSS"]
-        self.herramientas = ["Burp Suite", "OWASP Zap", "Wireshark", "Nmap", "Metasploit"]
+        self.herramientas = ["Burp Suite", "OWASP Zap", "Wireshark", "Nmap", "Metasploit", "Azure"]
         self.intereses = ["Ciberseguridad 🔐", "CTF 🕵️", "Programación 💻", "Automatización con Python ⚙️"]
         self.contacto = "https://www.linkedin.com/in/juanpoch/"
 
