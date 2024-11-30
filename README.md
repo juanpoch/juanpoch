@@ -1,17 +1,17 @@
-# ¡Hola a todos! 👋🏻
+# Hello, everyone! 👋🏻
 
-Soy Juan Manuel Poch, un Analista de Seguridad orientado al **Red Team** con pasión por los **CTF** y el desarrollo en **Python**. Siempre estoy aprendiendo y buscando nuevos desafíos 🚀.
+I’m Juan Manuel Poch, a Security Analyst focused on the Red Team, passionate about CTFs and development in Python. I’m always learning and looking for new challenges 🚀.
 
-## Sobre mí 👨‍💻
+## About me 👨‍💻
 
 ```python
 class AboutMe:
     def __init__(self):
-        self.nombre = "Juan Manuel Poch 🙋‍♂️"
-        self.lenguajes = ["Python", "Bash", "Javascript", "SQL", "HTML", "CSS"]
-        self.herramientas = ["Burp Suite", "OWASP Zap", "Wireshark", "Nmap", "Metasploit", "Azure"]
-        self.intereses = ["Ciberseguridad 🔐", "CTF 🕵️", "Programación 💻", "Automatización con Python ⚙️"]
-        self.contacto = "https://www.linkedin.com/in/juanpoch/"
+        self.name = "Juan Manuel Poch 🙋‍♂️"
+        self.languages = ["Python", "Bash", "Javascript", "SQL", "HTML", "CSS"]
+        self.tools = ["Burp Suite", "OWASP Zap", "Wireshark", "Nmap", "Metasploit", "Azure"]
+        self.interests = ["Cybersecurity 🔐", "Pentesting 💻", "CTF 🕵️", "Python Automate ⚙️"]
+        self.contact = "https://www.linkedin.com/in/juanpoch/"
 
-    def presentacion(self):
-        return f"Hola, soy {self.nombre}. Puedes contactarme en {self.contacto}."
+    def presentation(self):
+        return f"Hello, I'm {self.name}. You can contact me at {self.contact}."
