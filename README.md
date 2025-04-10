@@ -9,9 +9,9 @@ class AboutMe:
     def __init__(self):
         self.name = "Juan Manuel Poch 🙋‍♂️"
         self.languages = ["Python", "Bash", "Javascript", "SQL", "HTML", "CSS"]
-        self.tools = ["Burp Suite", "OWASP Zap", "Wireshark", "Nmap", "Metasploit", "Azure"]
+        self.tools = ["Burp Suite", "OWASP Zap", "Wireshark", "Nmap", "Metasploit"]
         self.interests = ["Cybersecurity 🔐", "Pentesting 💻", "CTF 🕵️", "Python Automate ⚙️"]
-        self.contact = "https://www.linkedin.com/in/juanpoch/"
+        self.contact = "https://www.linkedin.com/in/juanmpoch/"
 
     def presentation(self):
         return f"Hello, I'm {self.name}. You can contact me at {self.contact}."
