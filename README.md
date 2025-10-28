@@ -1,3 +1,5 @@
+<img width="939" height="218" alt="image" src="https://github.com/user-attachments/assets/7fedc0b1-c24c-487b-a255-c9f147add261" />
+
 # Hello, everyone! 👋🏻
 
 I’m Juan Manuel Poch, a Security Analyst focused on the Red Team, passionate about CTFs and development in Python. I’m always learning and looking for new challenges.
