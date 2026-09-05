@@ -2,18 +2,27 @@
 
 
 
-I’m Juan Manuel Poch, a Security Analyst focused on the Red Team, passionate about CTFs and development in Python. I’m always learning and looking for new challenges.
+  Pentester with 3+ years of experience in web application, infrastructure, and Active Directory security assessments. 
+  Currently at Movistar Argentina (Telefónica) · Ethical Hacking Instructor @ educaciónIT.
 
 ## About me 
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Juan Manuel Poch"
-        self.languages = ["Python", "Bash", "Javascript", "SQL", "HTML", "CSS"]
-        self.tools = ["Burp Suite", "Netsparker", "OWASP Zap", "Wireshark", "Nmap", "Metasploit"]
-        self.interests = ["Cybersecurity 🔐", "Pentesting 💻", "CTF 🕵️", "Red team"]
-        self.contact = "https://www.linkedin.com/in/juanmpoch/"
+ ```python
+  class AboutMe:
+      def __init__(self):
+          self.name       = "Juan Manuel Poch"
+          self.role       = "Pentester @ Movistar Argentina (Telefónica)"
+          self.instructor = "Ethical Hacking Instructor @ educaciónIT"
+          self.languages  = ["Python", "Bash", "PowerShell"]
+          self.tools      = {
+              "recon"  : ["Nmap", "Amass", "Shodan"],
+              "web"    : ["Burp Suite", "OWASP ZAP", "ffuf", "sqlmap"],
+              "ad"     : ["BloodHound", "CrackMapExec", "Impacket", "Rubeus"],
+              "post"   : ["Metasploit", "Mimikatz", "Chisel"],
+          }
+          self.interests  = ["Offensive Security", "Red Team", "CTFs"]
+          self.linkedin   = "https://linkedin.com/in/juanmpoch"
 
-    def presentation(self):
-        return f"Hello, I'm {self.name}. You can contact me at {self.contact}."
+      def presentation(self):
+          return "Offensive security practitioner and instructor"
+  ```
