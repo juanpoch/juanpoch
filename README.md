@@ -31,7 +31,7 @@
               "Reproducible PoCs",
           ]
 
-          self.scripting = ["Python", "PowerShell", "Bash"]
+          self.scripting = ["Python", "PowerShell", "Bash", "C/C++"]
 
           self.research = {
               "CVE-2026-73570": "Independent analysis & PoC reproduction",
@@ -39,7 +39,7 @@
 
       def presentation(self):
           return "Offensive Security Practitioner & Instructor"
-  ` ` `
+  ```
 
   ---
 
