@@ -3,7 +3,7 @@
 
 
   Pentester with 3+ years of experience in web application, infrastructure, and Active Directory security assessments. 
-  Currently at Movistar Argentina (Telefónica) · Ethical Hacking Instructor @ educaciónIT.
+  Currently at Movistar Argentina (Telefónica) · Ethical Hacking Instructor @ educacionIT.
 
 ## About me 
 
@@ -14,7 +14,7 @@
       def __init__(self):
           self.name       = "Juan Manuel Poch"
           self.role       = "Penetration Tester @ Movistar Argentina (Telefónica)"
-          self.instructor = "Ethical Hacking Instructor @ educaciónIT"
+          self.instructor = "Ethical Hacking Instructor @ educacionIT"
 
           self.focus = [
               "Web & API Security",
