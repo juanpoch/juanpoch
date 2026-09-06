@@ -7,22 +7,52 @@
 
 ## About me 
 
- ```python
+---
+
+  ```python
   class AboutMe:
       def __init__(self):
           self.name       = "Juan Manuel Poch"
-          self.role       = "Pentester @ Movistar Argentina (Telefónica)"
+          self.role       = "Penetration Tester @ Movistar Argentina (Telefónica)"
           self.instructor = "Ethical Hacking Instructor @ educaciónIT"
-          self.languages  = ["Python", "Bash", "PowerShell"]
-          self.tools      = {
-              "recon"  : ["Nmap", "Amass", "Shodan"],
-              "web"    : ["Burp Suite", "OWASP ZAP", "ffuf", "sqlmap"],
-              "ad"     : ["BloodHound", "CrackMapExec", "Impacket", "Rubeus"],
-              "post"   : ["Metasploit", "Mimikatz", "Chisel"],
+
+          self.focus = [
+              "Web & API Security",
+              "External / Internal Infrastructure",
+              "Active Directory",
+              "Red Team",
+              "Vulnerability Research",
+          ]
+
+          self.approach = [
+              "Manual Exploitation",
+              "Attack Chain Development",
+              "Impact Validation",
+              "Reproducible PoCs",
+          ]
+
+          self.scripting = ["Python", "PowerShell", "Bash"]
+
+          self.research = {
+              "CVE-2026-73570": "Independent analysis & PoC reproduction",
           }
-          self.interests  = ["Offensive Security", "Red Team", "CTFs"]
-          self.linkedin   = "https://linkedin.com/in/juanmpoch"
 
       def presentation(self):
-          return "Offensive security practitioner and instructor"
-  ```
+          return "Offensive Security Practitioner & Instructor"
+  ` ` `
+
+  ---
+
+  ### Security Research
+
+  | CVE | Target | CVSS | Status |
+  |-----|--------|------|--------|
+  | [CVE-2026-73570](https://github.com/juanpoch/CVE-2026-73570) | Zimbra Collaboration Suite — Unauthenticated RCE | 8.9 (CISA KEV) | PoC Published |
+
+  ---
+
+  ### Connect
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmpoch-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanmpoch)
+
+  ---
