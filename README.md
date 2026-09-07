@@ -55,6 +55,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmpoch-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanmpoch)  
   [![Website](https://img.shields.io/badge/Website-jpoch.dev-1a1a2e?style=flat-square&logo=firefox&logoColor=white)](https://jpoch.dev)  
+  [![YouTube](https://img.shields.io/badge/YouTube-@jpochdev-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@jpochdev)  
   
 
   ---
