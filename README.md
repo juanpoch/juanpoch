@@ -47,12 +47,14 @@
 
   | CVE | Target | CVSS | Status |
   |-----|--------|------|--------|
-  | [CVE-2026-73570](https://github.com/juanpoch/CVE-2026-73570) | Zimbra Collaboration Suite — Unauthenticated RCE | 8.9 (CISA KEV) | PoC Published |
+  | [CVE-2026-73570](https://github.com/juanpoch/CVE-2026-73570) | Zimbra Collaboration Suite — Unauthenticated RCE | 8.9 (CISA KEV) | PoC Published · [Writeup](https://jpoch.dev/writeups/cve-2026-73570) |
 
   ---
 
   ### Connect
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmpoch-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanmpoch)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmpoch-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanmpoch)  
+  [![Website](https://img.shields.io/badge/Website-jpoch.dev-1a1a2e?style=flat-square&logo=firefox&logoColor=white)](https://jpoch.dev)  
+  
 
   ---
